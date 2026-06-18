@@ -1,7 +1,3 @@
-# Data and artifacts are not tracked.
-data/
-artifacts/
-
 # Python
 __pycache__/
 *.py[cod]
